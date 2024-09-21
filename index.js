@@ -1,7 +1,7 @@
 document.getElementById('cardapio').addEventListener('click', function (event) {
     event.preventDefault();
 
-    window.location.href = 'file:///C:/Users/fabit/OneDrive/%C3%81rea%20de%20Trabalho/Hamburgueria/Card%C3%A1pio/index.html';
+    window.location.href = 'https://joaovitortupan.github.io/Cardapio/';
 
 
 });

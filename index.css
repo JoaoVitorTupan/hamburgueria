@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.logo-pequena {
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 200px; 
+}
+
+.ok{
+    text-align: center;
+}
+
+.titulo {
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.74);
+    display: inline-flex;
+    padding: 0.5px;
+}
+
+.cabecalho {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(255, 255, 255, 0.74);
+    display: inline-flex;
+    padding: 0.5px;
+}
+
+.contato {
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.74);
+    display:inline-flex;
+    padding: 0.5px;
+}
+
+.form {
+    margin-left: 20px;
+    
+}
+
+.botao {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: #25D366;
+}
+
+
+body{
+    
+    width: 100vw;
+    height: 50vw;
+    background-image: url("cell.webp");
+    background-size: 100%;
+    
+
+}
+
+.cardapio {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: #fd362f;
+}
